@@ -1,0 +1,47 @@
+#pixture-reloaded {
+  font-size: 15px ;
+}
+
+#logo img {
+  margin-left: 15px;
+  margin-top: -32px;
+}
+
+div#site-name {
+  position: absolute;
+  left: -99999px;
+}
+
+#search-box {
+  margin-top: 92px; 
+}
+#search-box label {
+  display:none;
+}
+
+div#header {
+   background:url("twelvegrove-logo-text.png") no-repeat scroll 180px 6px transparent;
+}
+
+.form-text {
+  width: 100%;
+}
+
+html h1 {
+font-size:2.3em;
+}
+#superfish-inner .menu a {
+  padding:3px 14px 5px;
+}
+
+#superfish-inner .menu li:hover, #superfish-inner .menu li.sfHover, #superfish-inner .menu a:focus, #superfish-inner .menu a:hover, #superfish-inner .menu a:active {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+#background:transparent url(sf-hover-tile.png) repeat-y scroll left top;
+ background: #444444 none repeat-y scroll left top;
+}
+
+#page {
+  border-top: 10px #000 solid;
+}

@@ -1,0 +1,15 @@
+
+
+.views-row-even, .views-row-odd {
+background-color:#EEEEEE;
+border-bottom:1px solid #CCCCCC;
+padding:0.1em 0.6em;
+}
+
+.views-row-even {
+background:none repeat scroll 0 0 #FFFFFF;
+}
+
+.views-row-odd  {
+background:none repeat scroll 0 0 #E9E6E4;
+}

@@ -1,0 +1,11 @@
+img.inline-image-left {
+  padding-right: 10px;
+  float: left;
+  clear: both;
+}
+
+img.inline-image-right {
+  padding-left: 10px;
+  float: right;
+  clear: both;
+}
